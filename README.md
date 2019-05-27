@@ -1,6 +1,6 @@
 # nuxtExpress
 
-> My luminous Nuxt.js project
+> NUXT EXPRESS MONGO CRUD SETUP TEMPLATE
 
 ## Build Setup
 
